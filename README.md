@@ -8,7 +8,7 @@ Welcome to Robotics Winter Camp-2023! The camp consists of learning an Image-Pro
 
 The camp will be conducted in two phases-
 
--WEEK 1- OpenCV
+-WEEK 1- OpenCV + Python (Basics)
 
 -WEEK 2- PyBullet
 
