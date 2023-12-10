@@ -1,7 +1,7 @@
 ## Workshop 1 - OpenCV
 
 ## Link to the workshop slides
-- Soon to be updated after the workshop.
+- [OpenCV](https://docs.google.com/presentation/d/1hrVRDUTWKF5IjQAbo1G6NIG1TVp25bNuBvw8BT7SoHU/edit?usp=sharing)
 
 ## Link to Intro to python playlist {lec 1-7 would suffice}
 - [Sentdex Python Playlist](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
@@ -9,8 +9,15 @@
 - [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
 ## Codes used in the presentation:
-All the images and codes used in the presentation will be added in the repository. You are more than welcome to download the files and play with them. More you try and test, more you learn!!
-- Soon to be updated after the workshop.
+All the images and codes used in the presentation are added in the repository. You are more than welcome to download the files and play with them. More you try and test, more you learn!!
+- [Read Image](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/read_mage.py)
+- [Show Image](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/show_image.py)
+- [Save Image](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/save_image.py)
+- [Changing Colorspaces](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/changing_colorspaces.py)
+- [Cropping and Resizing](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/resize_crop.py)
+- [Global Thresholding](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/global_thresholding.py)
+- [Adaptive Thresholding](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/adaptive_thresholding.py)
+- [Masking](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/masking.py)
 
 ## Further references
 - [OpenCV Functions Demonstration](https://github.com/ajitsingh98/Hands-on-with-OpenCV/blob/main/Hands-on-with-openCV.ipynb)
