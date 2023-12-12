@@ -25,10 +25,15 @@ All the images and codes used in the presentation are added in the repository. Y
 - [Sentdex CV Playlist](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 
 ## Task 1: 
-Code for a N-gon detector that takes an image containing various shaped polygons and outputs the image with the name of each polygon using all image processing techniques discussed
+You are provided with an image, download it on your system, now the task is that you have to detect the polygons present in the image and identify there centroids using the features of CONTOUR function and then you have to print the name of the polygon and the centroid coordinates of the polygon in a file using FILE HANDLING techniques. The submission includes both the file generated as well as the code.
+- Image soon to be updated
 
-## Task 2: 
-Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed
+## Task 2 [BONUS TASK]: 
+Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed. The submission includes both a video of 15 seconds, showing the task and the code.
+
+[Example of the Task](https://drive.google.com/file/d/15mhOSm9QPTaox_V3csLHBd3pmsReziKN/view?usp=sharing)
+
+Hint:- You can use contrasting background for making the task easy like white chart paper and black A4 sheet.
 
 ## Submission Link: 
 https://forms.gle/X6bJdvJo6rvNtnZ59
