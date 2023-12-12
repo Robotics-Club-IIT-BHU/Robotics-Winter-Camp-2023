@@ -26,7 +26,7 @@ All the images and codes used in the presentation are added in the repository. Y
 
 ## Task 1: 
 You are provided with an image, download it on your system, now the task is that you have to detect the polygons present in the image and identify there centroids using the features of CONTOUR function and then you have to print the name of the polygon and the centroid coordinates of the polygon in a file using FILE HANDLING techniques. The submission includes both the file generated as well as the code.
-- Image soon to be updated
+- [Image](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Workshop1_OpenCV/images/image.jpeg)
 
 ## Task 2 [BONUS TASK]: 
 Try to code for an Invisibility Cloak as shown in the workshop using Masking Techniques on a Video Feed. The submission includes both a video of 15 seconds, showing the task and the code.
@@ -35,5 +35,5 @@ Try to code for an Invisibility Cloak as shown in the workshop using Masking Tec
 
 Hint:- You can use contrasting background for making the task easy like white chart paper and black A4 sheet.
 
-## Submission Link: 
+## Submission Link: [DEADLINE: 17th December, 2023; Sunday]
 https://forms.gle/X6bJdvJo6rvNtnZ59
