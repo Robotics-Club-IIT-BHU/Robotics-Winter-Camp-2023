@@ -36,4 +36,5 @@ Try to code for an Invisibility Cloak as shown in the workshop using Masking Tec
 Hint:- You can use contrasting background for making the task easy like white chart paper and black A4 sheet.
 
 ## Submission Link: [DEADLINE: 17th December, 2023; Sunday]
-https://forms.gle/X6bJdvJo6rvNtnZ59
+- [Task 1](https://forms.gle/2XhE83JM1QmuRtDK6)
+- [Task 2](https://forms.gle/X6bJdvJo6rvNtnZ59)
