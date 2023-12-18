@@ -24,6 +24,10 @@ install the required packages using pip after activating your conda env
 ```bash
 pip install pybullet-workshop-23
 ```
+```bash
+pip install -r requirements.txt
+```
+
 ### You are now ready for the Tasks
 
 ## Link to the workshop slides
