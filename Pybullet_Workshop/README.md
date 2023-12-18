@@ -1,6 +1,6 @@
 ![robo](https://user-images.githubusercontent.com/120899038/222499315-4d8546e2-3fee-427b-be2a-ae76ddc3c088.png)
 
-# Pybullet_Workshop
+# Week 2: PyBullet
 
 ### Pybullet workshop for batch of 2023.
 
@@ -10,7 +10,7 @@ Welcome to Week 2 of WinterCamp this week facilitate learning about different co
 
 ###### GOOD LUCK
 
-## Installation Guid for this Workshop
+## Installation Guide for this Workshop
 
 Update or clone the WinterCamp git repo again.
 ```bash
@@ -35,6 +35,11 @@ pip install -r requirements.txt
 
 ## Code used in the Workshop 
 The code can be found in the example's folder. Try to run and understand the example code scripts and Experiment with it.
+- [Arena](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/examples/Arena.py)
+- [Camera Feed](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/examples/camera_feed.py)
+- [Gripper Actions](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/examples/gripper_actions.py)
+- [Move Husky](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/examples/move_husky.py)
+- [Shooter Actions](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/examples/shooter_actions.py)
 
 # Task:
 Go to the Task_scripts folder to find the task files.
