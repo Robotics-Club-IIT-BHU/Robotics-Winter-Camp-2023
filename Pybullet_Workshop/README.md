@@ -4,7 +4,7 @@
 
 ### Pybullet workshop for batch of 2023.
 
-For basic information about pybullet and how to use functions present in it, please visit [PyBullet Starter Guide](https://github.com/ShashwatPatil/Pybullet_Workshop/blob/4d4bdb851fcbc4e88ac977fa8036f52400882815/pybullet_quickstartguide.pdf) [This will be the most important core source of your information through out the workshop]
+For basic information about pybullet and how to use functions present in it, please visit [PyBullet Starter Guide](https://github.com/Robotics-Club-IIT-BHU/Robotics-Winter-Camp-2023/blob/main/Pybullet_Workshop/pybullet_quickstartguide.pdf) [This will be the most important core source of your information through out the workshop]
 
 Welcome to Week 2 of WinterCamp this week facilitate learning about different components of image processing and its application in building robots capable of autonomous movement. This repo holds the task of pybullet workshop. The Arenas are in the form of an OpenAI gym and runs on python libraries like Pybullet and OpenCV.
 
