@@ -42,5 +42,3 @@ Your Task is to grab the ball that is in front of the husky and then find the hu
 Your code should be using opencv to autonomously grab the ball and shoot.
 ## Task 3 (BONUS TASK)
 Your task is to make husky follow the red line autonomously using opencv and PID control.
-
-# References 
