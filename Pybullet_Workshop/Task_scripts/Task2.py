@@ -23,7 +23,6 @@ VISUAL_CAM_SETTINGS = dict({
 ##########################################################
 """
 Your Task is to grab the ball that is in front of the husky and then find the humanoid and shoot the ball.
-Your code should be using opencv to autonomously grab the ball and shoot.
 """
 ##########################################################
 
