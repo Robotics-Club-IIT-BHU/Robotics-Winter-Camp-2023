@@ -1,4 +1,4 @@
-## Workshop 1 - OpenCV
+## Week 1 - OpenCV
 
 ## Link to the workshop slides
 - [OpenCV](https://docs.google.com/presentation/d/1hrVRDUTWKF5IjQAbo1G6NIG1TVp25bNuBvw8BT7SoHU/edit?usp=sharing)
