@@ -48,5 +48,4 @@ Your task is to use env.move() and p.getKeyboardEvents() to control the husky us
 of you keyboard and make the husky stop when the spacebar is pressed just like games :D
 ## Task 2
 Your Task is to grab the ball that is in front of the husky and then find the humanoid and shoot the ball.
-## Task 3 (BONUS TASK)
-Your task is to make husky follow the red line autonomously using opencv and PID control.
+If you make the process of grabbing and shooting of ball autonomous then extra points will be awarded.
