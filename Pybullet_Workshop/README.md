@@ -46,6 +46,10 @@ Go to the Task_scripts folder to find the task files.
 ## Task 1 
 Your task is to use env.move() and p.getKeyboardEvents() to control the husky using the arrow keys
 of you keyboard and make the husky stop when the spacebar is pressed just like games :D
+
+Submission Link for task 1 [here](https://forms.gle/2XL9aa3xo4yo5s1T9)
 ## Task 2
 Your Task is to grab the ball that is in front of the husky and then find the humanoid and shoot the ball.
 If you make the process of grabbing and shooting of ball autonomous then extra points will be awarded.
+Submission Link for task 2 [here](https://forms.gle/kvPtokJSkPxJQAB37)
+
