@@ -51,5 +51,7 @@ Submission Link for task 1 [here](https://forms.gle/2XL9aa3xo4yo5s1T9)
 ## Task 2
 Your Task is to grab the ball that is in front of the husky and then find the humanoid and shoot the ball.
 If you make the process of grabbing and shooting of ball autonomous then extra points will be awarded.
+
+
 Submission Link for task 2 [here](https://forms.gle/kvPtokJSkPxJQAB37)
 
